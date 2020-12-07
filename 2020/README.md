@@ -18,4 +18,16 @@ Caso não seja uma T4, aproveitar para fazer o exercicio 3 e 5.
 
 ## [4. Mais trabalho por Thread](https://colab.research.google.com/drive/1CgR9VjmzA_9RLtTaRk1NhHlkJatqTl_f?usp=sharing)
 
+1. Leonardo - Exercicio 1 T3 e T4
+2. Ruan -  Exercicio 1 T5 e T6
+3. Lucas - Exercicio 1 a parte do FOR.
+
+### latencia
+1. Leonardo - Exercicio 3 - L1 e L2 para T1 e T2 
+2. Ruan - Exercicio 3 - L3 e L4 para T1 e T2 
+3. L3 e L4 para T3 e T4 Lucas
+4. L5 e T2,T4 e T6 Westerley
+
+
+
 
