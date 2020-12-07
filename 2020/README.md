@@ -9,5 +9,5 @@
 1. Leonardo transferencia GPU-CPU tabela - Feito. 
 1. Ruan - Tempo de execução tabela - ???
 
-## [3. Intensidade Aritmetica (Polinomios)](https://colab.research.google.com/drive/1w_G16IwUZVhMzvU-uWpjGx965gkzByoO?usp=sharing) [Video](...)
+## [3. Intensidade Aritmetica (Polinomios)](https://colab.research.google.com/drive/1w_G16IwUZVhMzvU-uWpjGx965gkzByoO?usp=sharing) [Video](https://youtu.be/0Upfm1wktRE)
 
