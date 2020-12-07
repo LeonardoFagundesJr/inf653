@@ -28,6 +28,8 @@ Caso não seja uma T4, aproveitar para fazer o exercicio 3 e 5.
 3. L3 e L4 para T3 e T4 Lucas
 4. L5 e T2,T4 e T6 Westerley
 
+## [5. Multiplicação de Matrizes](https://colab.research.google.com/drive/11PgsBNA-5Q8A3Kuy6QQINzoiKJKrYX_y?usp=sharing)
+
 
 
 
