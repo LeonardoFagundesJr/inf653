@@ -30,8 +30,8 @@ Caso não seja uma T4, aproveitar para fazer o exercicio 3 e 5.
 
 ## [5. Multiplicação de Matrizes](https://colab.research.google.com/drive/11PgsBNA-5Q8A3Kuy6QQINzoiKJKrYX_y?usp=sharing)
 
-1. Ruan - versão CPU com ladrilhos, exercicio 1. Na GPU memcpy Exercicio 2.
-2. Leonardo - exercicio 3 com 2 threads
+1. Ruan - versão CPU com ladrilhos, exercicio 1. Na GPU memcpy Exercicio 2. [memcpy Volvok](https://bitbucket.org/rvuduc/volkov-gtc10/src/master/memcpy_k.cu)
+2. Leonardo - exercicio 3 com 2 threads (compilar com nvcc -arch=sm_XX -Xptxas -v, para ver qtos registros para 1 ponto e 2 pontos por thread)
 3. Lucas - exercicio 3 com 4 threads
 4. Westerley - exercicio 3 com 8 threads
 
