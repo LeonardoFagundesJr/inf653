@@ -22,6 +22,8 @@ Caso não seja uma T4, aproveitar para fazer o exercicio 3 e 5.
 2. Ruan -  Exercicio 1 T5 e T6
 3. Lucas - Exercicio 1 a parte do FOR.
 
+[Ruan e Leonardo _ Video para Mais trabalho, latencia e Multiplicacao Matrizes](https://www.youtube.com/playlist?list=PLcvOyD_LMr6l2OmlneylIx8OR9MbpQ-jM)
+
 ### latencia
 1. Leonardo - Exercicio 3 - L1 e L2 para T1 e T2 
 2. Ruan - Exercicio 3 - L3 e L4 para T1 e T2 
