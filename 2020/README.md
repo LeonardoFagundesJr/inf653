@@ -67,6 +67,28 @@ Sugestão é baixar os codigos com git para o colab. Navegar na pasta, compilar 
 * [Nvidia](https://github.com/NVIDIA/kmeans)
 * [Ver com Michael o geradores do WSCAD 2018](....)
 
+## 10. Testes com thrust
+
+[Secao Thrust do MiniCurso WSCAD 2019](https://colab.research.google.com/drive/17IslqFWtsMhYXqOaeA8vP6cRgmDpkJGM?usp=sharing)
+Ir na secao Thrust.
+
+1. compara reducao, sort, 
+
+## 11. Testes com Convolução
+
+[Alexnet](https://github.com/pratikpv/alexnet/blob/master/GPU/cuda/alexnet_host.cu)
+[Alexnet pytorch](https://github.com/dansuh17/alexnet-pytorch/blob/d0c1b1c52296ffcbecfbf5b17e1d1685b4ca6744/model.py#L40)
+
+
+
+## 12. Stencil Registros e Memoria Compartilhada
+
+[Artigo clássico](http://developer.download.nvidia.com/CUDA/CUDA_Zone/papers/gpu_3dfd_rev.pdf)
+[Seleção de artigos](https://docs.google.com/presentation/d/1UzVE37XMght3-beY0wmbBvZjbMtJp50diNAI3FssW8I/edit?usp=sharing)
+
+
+1. Comparar com uma implementação naive, mudar janela, adaptar para convolução.
+
 
 
 
