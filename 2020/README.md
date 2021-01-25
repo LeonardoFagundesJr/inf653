@@ -69,10 +69,26 @@ Sugestão é baixar os codigos com git para o colab. Navegar na pasta, compilar 
 
 ## 10. Testes com thrust
 
+[Doc Nvidia](https://docs.nvidia.com/cuda/thrust/index.html)
+
 [Secao Thrust do MiniCurso WSCAD 2019](https://colab.research.google.com/drive/17IslqFWtsMhYXqOaeA8vP6cRgmDpkJGM?usp=sharing)
 Ir na secao Thrust.
 
-1. compara reducao, sort, 
+1. Leonardo - Criar um colab separado. Fazer a tabela SORT (executar 3 vezes) com os campos: tamanho vetor, tempo, tempo transfer, Sort/s, GPU. Se possivel executar em 2 GPU com os tamanhos: 1M,2M, ....ate' maximo que a GPU e Thrust permitir.  Fazer o teste para INT, FLOAT e DOUBLE. 
+
+2. Lucas - Buscar um Sort em CPU (codigo Radix ou Quicksort) para comparar 
+
+3. Westerley - Comparar o Thrust Transformer com um kernel de polinomio para equacoes com 10, 15 e 20 ops.
+
+4. Leonardo - fazer um colab para comparar a REDUCAO do Thrust com o codigo do Capitulo 4 do reduction com Unroll. vetores de tamanho 16M-64M
+
+5. Lucas - fazer uma funcao Count em CUDA e comparar com o desempenho do [Thrust](https://docs.nvidia.com/cuda/thrust/index.html)
+
+6. Westerley - fazer codigo em CUDA para thrust::is_sorted e comparar com thrust. 
+
+
+
+
 
 ## 11. Testes com Convolução
 
