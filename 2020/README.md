@@ -101,9 +101,11 @@ Ir na secao Thrust.
 
 [Artigo clássico](http://developer.download.nvidia.com/CUDA/CUDA_Zone/papers/gpu_3dfd_rev.pdf)
 
-1. Leonardo - Fazer este problema no Matlab e medir o tempo. Stencil 3D. Sequencial 0, 1, 2..  256*256*256 = 16M
+1. Leonardo - Fazer este problema no Matlab e medir o tempo. Stencil 3D. Sequencial 0, 1, 2..  256\*256\*256 = 16M
 2. Lucas - Versao em CPU com FOR e usar flag vetorizacao (AVX) e OpenMP (k40) para ver ser paraleliza automatico
-3. Westerley - Versao em GPU naive com FOR em "z"
+3. Westerley - Versao em GPU naive com FOR em "z" e comparar com a versao do artigo
+
+Fazer o calculo de Stencil 25p/s.
 
 
 
