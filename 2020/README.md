@@ -100,6 +100,13 @@ Ir na secao Thrust.
 ## 12. Stencil Registros e Memoria Compartilhada
 
 [Artigo clássico](http://developer.download.nvidia.com/CUDA/CUDA_Zone/papers/gpu_3dfd_rev.pdf)
+
+1. Leonardo - Fazer este problema no Matlab e medir o tempo. Stencil 3D. Sequencial 0, 1, 2..  256*256*256 = 16M
+2. Lucas - Versao em CPU com FOR e usar flag vetorizacao (AVX) e OpenMP (k40) para ver ser paraleliza automatico
+3. Westerley - Versao em GPU naive com FOR em "z"
+
+
+
 [Seleção de artigos](https://docs.google.com/presentation/d/1UzVE37XMght3-beY0wmbBvZjbMtJp50diNAI3FssW8I/edit?usp=sharing)
 
 
