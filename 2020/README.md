@@ -69,6 +69,8 @@ Sugestão é baixar os codigos com git para o colab. Navegar na pasta, compilar 
 
 ## 10. Testes com thrust
 
+[Video da Aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n1wZQe3m37o5qnrtwwd-9u)
+
 [Doc Nvidia](https://docs.nvidia.com/cuda/thrust/index.html)
 
 [Secao Thrust do MiniCurso WSCAD 2019](https://colab.research.google.com/drive/17IslqFWtsMhYXqOaeA8vP6cRgmDpkJGM?usp=sharing)
@@ -98,6 +100,8 @@ Ir na secao Thrust.
 
 
 ## 12. Stencil Registros e Memoria Compartilhada
+
+[Video da Aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n1wZQe3m37o5qnrtwwd-9u)
 
 [Artigo clássico](http://developer.download.nvidia.com/CUDA/CUDA_Zone/papers/gpu_3dfd_rev.pdf)
 
