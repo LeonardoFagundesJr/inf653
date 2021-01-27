@@ -101,7 +101,7 @@ Ir na secao Thrust.
 5. [Alexnet pytorch](https://github.com/dansuh17/alexnet-pytorch/blob/d0c1b1c52296ffcbecfbf5b17e1d1685b4ca6744/model.py#L40)
 
 ### Tarefas 
- 1. 
+ 1. Colab: Versão CPU versus versão GPU v1 (pagina 278) versus v3 (pagina 282-84), 
  2. 
 
 
