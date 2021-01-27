@@ -101,8 +101,10 @@ Ir na secao Thrust.
 5. [Alexnet pytorch](https://github.com/dansuh17/alexnet-pytorch/blob/d0c1b1c52296ffcbecfbf5b17e1d1685b4ca6744/model.py#L40)
 
 ### Tarefas 
- 1. Colab: Versão CPU versus versão GPU v1 (pagina 278) versus v3 (pagina 282-84), 
- 2. Colab: versao naive matriz 227x227x3 com 96 chamadas de filtros 11x11x3 (camada 1 da alexnext) usando "v3"
+ 1. Leonardo - Colab: Versão CPU versus versão GPU v1 (pagina 278) versus v3 (pagina 282-84), 
+ 2. Ruan - Colab: versao naive matriz 227x227x3 com 96 chamadas de filtros 11x11x3 (camada 1 da alexnext) usando "v3" shared
+ 3. Lucas - Colab: versao [executeFirstLayer](https://github.com/pratikpv/alexnet/blob/master/GPU/cuda/an_kernel.cu)
+ 4. Westerley - Buscar implementações de ALEXNET com Shared
  
 
 
