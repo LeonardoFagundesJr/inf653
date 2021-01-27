@@ -102,7 +102,8 @@ Ir na secao Thrust.
 
 ### Tarefas 
  1. Colab: Versão CPU versus versão GPU v1 (pagina 278) versus v3 (pagina 282-84), 
- 2. 
+ 2. Colab: versao naive matriz 227x227x3 com 96 chamadas de filtros 11x11x3 (camada 1 da alexnext) usando "v3"
+ 
 
 
 ## 12. Stencil Registros e Memoria Compartilhada
