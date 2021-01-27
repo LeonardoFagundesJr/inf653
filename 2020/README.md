@@ -78,7 +78,7 @@ Ir na secao Thrust.
 
 1. Leonardo - Criar um colab separado. Fazer a tabela SORT (executar 3 vezes) com os campos: tamanho vetor, tempo, tempo transfer, Sort/s, GPU. Se possivel executar em 2 GPU com os tamanhos: 1M,2M, ....ate' maximo que a GPU e Thrust permitir.  Fazer o teste para INT, FLOAT e DOUBLE. 
 
-2. Lucas - Buscar um Sort em CPU (codigo Radix ou Quicksort) para comparar 
+2. Lucas - Buscar um Sort em CPU (codigo Radix ou Quicksort) para comparar  - [link](https://cs.stackexchange.com/questions/3/why-is-quicksort-better-than-other-sorting-algorithms-in-practice)
 
 3. Westerley - Comparar o Thrust Transformer com um kernel de polinomio para equacoes com 10, 15 e 20 ops.
 
