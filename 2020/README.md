@@ -94,6 +94,8 @@ Ir na secao Thrust.
 
 ## 11. Testes com Convolução
 
+[video com Introdução a Convolução e as redes Convolucionais](https://www.youtube.com/playlist?list=PLcvOyD_LMr6me43_cMTJ4M4GpvegDB36O)
+
 1. Ler a seção de convolução do Livro Cuda Beginner Guide Pagina 277.
 2. [slide do curso de Stanford cs231n](http://cs231n.stanford.edu/slides/2020/lecture_5.pdf)
 3. [apostila do curso Cs231n](https://cs231n.github.io/convolutional-networks/)
