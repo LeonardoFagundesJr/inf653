@@ -94,9 +94,15 @@ Ir na secao Thrust.
 
 ## 11. Testes com Convolução
 
-[Alexnet](https://github.com/pratikpv/alexnet/blob/master/GPU/cuda/alexnet_host.cu)
-[Alexnet pytorch](https://github.com/dansuh17/alexnet-pytorch/blob/d0c1b1c52296ffcbecfbf5b17e1d1685b4ca6744/model.py#L40)
+1. Ler a seção de convolução do Livro Cuda Beginner Guide Pagina 277.
+2. [slide do curso de Stanford cs231n](http://cs231n.stanford.edu/slides/2020/lecture_5.pdf)
+3. [apostila do curso Cs231n](https://cs231n.github.io/convolutional-networks/)
+4. [Alexnet](https://github.com/pratikpv/alexnet/blob/master/GPU/cuda/alexnet_host.cu)
+5. [Alexnet pytorch](https://github.com/dansuh17/alexnet-pytorch/blob/d0c1b1c52296ffcbecfbf5b17e1d1685b4ca6744/model.py#L40)
 
+### Tarefas 
+ 1. 
+ 2. 
 
 
 ## 12. Stencil Registros e Memoria Compartilhada
