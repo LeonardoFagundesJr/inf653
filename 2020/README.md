@@ -67,7 +67,8 @@ Sugestão é baixar os codigos com git para o colab. Navegar na pasta, compilar 
 * [Nvidia](https://github.com/NVIDIA/kmeans)
 * [Rodinia]()
 * [Scikit-learn]()
-* 
+* [Slides do WSCAD 2018](https://docs.google.com/presentation/d/1jjb98MBgeKWKQI10fiYKADVVQEt05piqvneKjjx3dkw/edit?usp=sharing)
+* [Artigo do WSCAD 2018]()
 * [Ver com Michael o geradores do WSCAD 2018](....)
 
 ## 10. Testes com thrust
