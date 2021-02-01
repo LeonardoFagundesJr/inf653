@@ -65,11 +65,15 @@ Sugestão é baixar os codigos com git para o colab. Navegar na pasta, compilar 
 ## 9. Geração de Código - Kmeans
 
 * [Nvidia](https://github.com/NVIDIA/kmeans)
-* [Rodinia]()
-* [Scikit-learn]()
+* [Rodinia](https://github.com/JuliaParallel/rodinia/tree/master/cuda/kmeans)
+* [Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
 * [Slides do WSCAD 2018](https://docs.google.com/presentation/d/1jjb98MBgeKWKQI10fiYKADVVQEt05piqvneKjjx3dkw/edit?usp=sharing)
-* [Artigo do WSCAD 2018]()
+* [Artigo do WSCAD 2018](https://github.com/arduinoufv/inf653/blob/main/2020/Kmeans___IEEE___portugues.pdf)
 * [Ver com Michael o geradores do WSCAD 2018](....)
+
+### Colabs
+* [Colab com sci-kitlearn](https://colab.research.google.com/drive/1GDuT3ByCQrm05DQL98hpxVIhkjlYaSpl)
+
 
 ## 10. Testes com thrust
 
