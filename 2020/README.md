@@ -64,6 +64,7 @@ Sugestão é baixar os codigos com git para o colab. Navegar na pasta, compilar 
 
 ## 9. Geração de Código - Kmeans
 
+* [Introdução ao Kmeans](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
 * [Nvidia](https://github.com/NVIDIA/kmeans)
 * [Rodinia](https://github.com/JuliaParallel/rodinia/tree/master/cuda/kmeans)
 * [Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
