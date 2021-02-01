@@ -75,6 +75,17 @@ Sugestão é baixar os codigos com git para o colab. Navegar na pasta, compilar 
 ### Colabs
 * [Colab com sci-kitlearn](https://colab.research.google.com/drive/1GDuT3ByCQrm05DQL98hpxVIhkjlYaSpl)
 
+### Tarefas
+
+* Leonardo: Fazer um codigo na mão para calcular K=2,K=3 e K=4 com memoria global e N=2 e N=4. [link git base inicial](https://github.com/canesche/kmeans/tree/main/gpu/kmeans-ricardo)
+* Ruan: Fazer um gerador do DOT para uma dado conjunto de K 
+* Ruan: Fazer um gerador codigo exemplo com k=i, k=i+1, K=i+2 simultaneos  gerar codigo GPU
+* Westerley: Variar os valores de N. Fazer um template para N=32. 
+* Lucas: Mais trabalho por Thread, colocando mais de um ponto por thread. 
+
+* Em todos os codigos, Verificar ao compilar quantos registradores foram usados pelo codigo. 
+
+
 
 ## 10. Testes com thrust
 
