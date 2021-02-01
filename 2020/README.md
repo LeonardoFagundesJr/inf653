@@ -65,6 +65,9 @@ Sugestão é baixar os codigos com git para o colab. Navegar na pasta, compilar 
 ## 9. Geração de Código - Kmeans
 
 * [Nvidia](https://github.com/NVIDIA/kmeans)
+* [Rodinia]()
+* [Scikit-learn]()
+* 
 * [Ver com Michael o geradores do WSCAD 2018](....)
 
 ## 10. Testes com thrust
