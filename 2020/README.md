@@ -7,7 +7,7 @@
 ## [2.Alocacao Memoria e Soma de Vetores](https://colab.research.google.com/drive/1R_DOeVF2_N_Fjrry-cK7WVifVw3a37xE?usp=sharing#scrollTo=bhp-cmJnyI1c)
 
 1. Leonardo transferencia GPU-CPU tabela - Feito. 
-1. Ruan - Tempo de execução tabela - ???
+1. Ruan - Tempo de execução tabela - Soma de Vetores para GPUs e tamanhos
 
 ## [3. Intensidade Aritmetica (Polinomios)](https://colab.research.google.com/drive/1w_G16IwUZVhMzvU-uWpjGx965gkzByoO?usp=sharing) [Video](https://youtu.be/0Upfm1wktRE) - [Ler seçao 1.1 do capitulo do Mini-Curso do WSCAD 2019](https://sol.sbc.org.br/livros/index.php/sbc/catalog/view/46/200/414-2)
 
@@ -43,7 +43,7 @@ Caso não seja uma T4, aproveitar para fazer o exercicio 3 e 5.
 
 ## [7. Capitulo 3 - Cuda C Professional Programming - Redução ](https://colab.research.google.com/drive/12gSlJmMHrUOQyZDg8Io9gptJ2_dckSNp?usp=sharing#scrollTo=esfCfLsZ5QRV)
 
-1. Ruan- Exercicio 2 (cap3) [video](https://www.youtube.com/watch?v=OuMY259rXW4&list=PLcvOyD_LMr6lZ35IJrqjeF1bUex6Jd7Rh&index=3)
+1. Leonardo- Exercicio 2 (cap3) [video](https://www.youtube.com/watch?v=OuMY259rXW4&list=PLcvOyD_LMr6lZ35IJrqjeF1bUex6Jd7Rh&index=3)
 
 ## 8. Explorando exemplos do Github da Nvidia
 
@@ -109,6 +109,7 @@ Ir na secao Thrust.
 5. Lucas - fazer uma funcao Count em CUDA e comparar com o desempenho do [Thrust](https://docs.nvidia.com/cuda/thrust/index.html)
 
 6. Westerley - fazer codigo em CUDA para thrust::is_sorted e comparar com thrust. 
+7. Ruan - Bucketsort e histograma
 
 
 
@@ -141,6 +142,7 @@ Ir na secao Thrust.
 1. Leonardo - Fazer este problema no Matlab e medir o tempo. Stencil 3D. Sequencial 0, 1, 2..  256\*256\*256 = 16M
 2. Lucas - Versao em CPU com FOR e usar flag vetorizacao (AVX) e OpenMP (k40) para ver ser paraleliza automatico
 3. Westerley - Versao em GPU naive com FOR em "z" e comparar com a versao do artigo
+4. Ruan - Adaptar tecnica do Stencil a convolucao
 
 Fazer o calculo de Stencil 25p/s.
 
